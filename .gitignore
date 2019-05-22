@@ -1,0 +1,6 @@
+*.pdf
+*.*.gz
+.idea/
+.vscode
+.vs_code
+
